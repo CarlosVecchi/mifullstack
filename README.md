@@ -11,5 +11,6 @@ Dado que no veo actividad por parte de mis compañeros de proyecto comienzo a re
 Abro un repositorio en privado (doy oportunidad que mis compañeros reaccionen)
 
 24/09
-comienzo subiendo el proyecto al main
-Abro
+comienzo subiendo la planilla de propuestas del proyecto al main, solo pongo el proyecto aprobado por el ISPC
+Abro un Projets tipo Kanbas
+comienzo a realizar las issues
