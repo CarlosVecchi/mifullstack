@@ -7,5 +7,9 @@ Dado que tengo el proyecto como privado, no tengo la opcion de crear una wiki. P
 
 
 20/09
-Dado que no veo actividad por parte de mis compañeros de proyecto comienzo a realizarlo por mi cuenta.
+Dado que no veo actividad por parte de mis compañeros de proyecto comienzo a realizarlo por mi cuenta. 
+Abro un repositorio en privado (doy oportunidad que mis compañeros reaccionen)
 
+24/09
+comienzo subiendo el proyecto al main
+Abro
